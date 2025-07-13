@@ -13,5 +13,8 @@
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.15.1",
     "puppeteer": "^24.12.1"
+  },
+  "bin": {
+    "mcp-graph-server": "index.js"
   }
 }
